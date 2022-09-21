@@ -1,0 +1,45 @@
+_repo: Sniping-in-France-With-notes-on-the-scientific-training-of-scouts-observers-and-snipers_68964
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Horne, Henry Sinclair
+    gutenberg_agent_id: '55029'
+    url: http://www.gutenberg.org/2009/agents/55029
+  illustrator:
+    agent_name: Blaikley, Ernest
+    gutenberg_agent_id: '55028'
+    url: http://www.gutenberg.org/2009/agents/55028
+creator:
+  author:
+    agent_name: Prichard, Hesketh Vernon Hesketh
+    aliases:
+    - Hesketh-Prichard, Hesketh Vernon
+    - Prichard, H. Hesketh (Hesketh Vernon Hesketh)
+    - Pritchard, Hesketh
+    - Hesketh-Prichard, H. (Hesketh)
+    birthdate: 1876
+    deathdate: 1922
+    gutenberg_agent_id: '33174'
+    url: http://www.gutenberg.org/2009/agents/33174
+    wikipedia: http://en.wikipedia.org/wiki/Hesketh_Hesketh-Prichard
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68964'
+language: en
+pgterms:marc904: https://archive.org/details/snipinginfrancew00pricrich
+pgterms:marc905: 20190723003141prichard
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Brian Coe, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :E. P. Dutton and Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sniping in France: With notes on the scientific training of scouts, observers,
+  and snipers'
+url: http://www.gutenberg.org/ebooks/68964
