@@ -9,6 +9,9 @@ contributor:
     agent_name: Blaikley, Ernest
     gutenberg_agent_id: '55028'
     url: http://www.gutenberg.org/2009/agents/55028
+covers:
+- cover_type: archival
+  image_path: 68964-h/images/cover.jpg
 creator:
   author:
     agent_name: Prichard, Hesketh Vernon Hesketh
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33174
     wikipedia: http://en.wikipedia.org/wiki/Hesketh_Hesketh-Prichard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68964#Sniping-in-France-With-notes-on-the-scientific-training-of-scouts-observers-and-snipers
 gutenberg_issued: '2022-09-11'
 identifiers:
   gutenberg: '68964'
